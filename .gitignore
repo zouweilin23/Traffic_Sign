@@ -1,0 +1,7 @@
+# Repo-specific GitIgnore ----------------------------------------------------------------------------------------------
+alldata
+data
+my_data3
+runs
+traffic_sign
+
